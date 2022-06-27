@@ -1,0 +1,26 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+h1 {
+  color: 15px;
+}
+
+nav {
+  margin-bottom: 50px;
+}
+
+nav input {
+  background: transparent;
+  border: none;
+}
+
+.error {
+  background-color: rgb(255, 195, 195);
+  text-align: center;
+  padding: 10px;
+}
